@@ -1,1 +1,1 @@
-# TipBot
+# TipBot by jasilp
